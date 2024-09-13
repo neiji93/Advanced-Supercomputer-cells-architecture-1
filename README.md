@@ -5,4 +5,4 @@ we can start with : exp(2980x) = ln(20y) because maths are large scale world and
 Maybe there are ways to use or test the solution with FPGA algoriithm. see: this : https://github.com/search?q=fpga&type=repositories
 AS I already created a new programming langage in another repository, make sure this langage runs with this cells. Oh ! Fortunately, if I can say that, this seems to be another advanced graphic engine ! Ahahahahahahahaha ! You can surely mix it with mitsuba graphic engine for non realtime rendering. I mean another graphic engine. Fully suited for it.
 so see: https://github.com/mitsuba-renderer/mitsuba
-So, what measures can we take for the architecture sculpting ? I already did some things in metals sculpting and finished with ceramics and log(x).
+So, what measures can we take for the architecture sculpting ? I already did some things in metals sculpting and finished with ceramics and log(x). You can also use this formula : L * E <= .... or L * E >=... to add electrical support.
