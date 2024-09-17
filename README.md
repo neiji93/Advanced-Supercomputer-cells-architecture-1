@@ -6,3 +6,6 @@ Maybe there are ways to use or test the solution with FPGA algoriithm. see: this
 AS I already created a new programming langage in another repository, make sure this langage runs with this cells. Oh ! Fortunately, if I can say that, this seems to be another advanced graphic engine ! Ahahahahahahahaha ! You can surely mix it with mitsuba graphic engine for non realtime rendering. I mean another graphic engine. Fully suited for it.
 so see: https://github.com/mitsuba-renderer/mitsuba
 So, what measures can we take for the architecture sculpting ? I already did some things in metals sculpting and finished with ceramics and log(x). You can also use this formula : L * E <= .... or L * E >=... to add electrical support.
+This study may help having a cutting edge solution that resist time over years. Everything to let this architecture the best :
+https://www.google.fr/books/edition/Non_Archimedean_L_Functions_and_Arithmet/JyF6CwAAQBAJ?hl=fr&gbpv=1&dq=non+differential+non+algebraic+numbers&printsec=frontcover
+It was done by scratch. Try to find a common view of cells architectures.
