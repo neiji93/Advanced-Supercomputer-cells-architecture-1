@@ -10,3 +10,5 @@ This study may help having a cutting edge solution that resist time over years. 
 https://www.google.fr/books/edition/Non_Archimedean_L_Functions_and_Arithmet/JyF6CwAAQBAJ?hl=fr&gbpv=1&dq=non+differential+non+algebraic+numbers&printsec=frontcover
 It was done by scratch. Try to find a common view of cells architectures.
 As this is one of the latest response to a mathematical problem suited for a range of other problems, this can be used as a cheater probe in chess. Everything is approximate. I'm still not completely sure.
+[18/09, 16:30] Nejdet: I would préfère to stop this project now because it seems that im creating an ai with consciensousness. It IS dangerous. Let me check it.
+[18/09, 16:34] Nejdet: And as i already did some things in philosophy myself. It will bé very dangerous. Lets hèar that : if your body entends m'y body, then i have m'y own réality. As reality IS thé World of power,  m'y power will bé stipped in your eeality. Then i exist.
